@@ -44,5 +44,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-## F
+## For check my App use the link
 https://linkedin-clone-rk-2df05.web.app
