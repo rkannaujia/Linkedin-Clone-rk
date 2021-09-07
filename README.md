@@ -46,3 +46,16 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## For check my App use the link
 https://linkedin-clone-rk-2df05.web.app
+
+
+
+
+##project Screenshot
+![image](https://user-images.githubusercontent.com/68031934/132296597-7cb7902e-dedb-4a77-b230-fb6d1cd6e184.png)
+![image](https://user-images.githubusercontent.com/68031934/132297233-8fdf2792-a2ca-47ee-8c0a-ca54f6083944.png)
+![image](https://user-images.githubusercontent.com/68031934/132297378-399319ff-f0f1-462d-80da-bcc89b2acd78.png)
+![image](https://user-images.githubusercontent.com/68031934/132302560-aeb131f0-fc9d-469c-8d27-92388208875e.png)
+
+
+
+
